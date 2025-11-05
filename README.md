@@ -1,4 +1,4 @@
-#🏦 Bank Transaction Data Analysis Pipeline
+#Bank Transaction Data Analysis Pipeline
 ##Description
 Ce projet est une application Python orchestrée par Apache Airflow qui :
 Génère des transactions bancaires simulées au format CSV.
